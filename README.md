@@ -36,7 +36,7 @@ MSE  :   0.40           |  MSE  :   0.35
 RMSE :   0.63           |  RMSE :   0.59
 
 
-:pushpin: We can observe that MSE decreased .5 with Randomized Search CV by Hyperparameter tuning
+:pushpin: We can observe that MSE reduced .5 with Randomized Search CV by Hyperparameter tuning
 
 
 
