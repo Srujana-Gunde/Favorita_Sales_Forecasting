@@ -9,7 +9,9 @@ This project contains six files ( Train, Test, Item, Stores, Oil, Transactions a
 
 ![Feature Importance](imgs/Feature_Importance.png)
 
-The top 5 features used for predicting unit sales are average sales calculated to next two weeks for each date in train and validation data, promotions calculated for future days tells about whether the item will be on promotion or not for coming days played an important role for forecasting sales in test data. 
+The above plot tells about features responsible for predicting unit sales for a particular item in different stores across Ecuador
+Average sales calculated from today to past two weeks 
+Promotions calculated from today to future days. The days mainly responsilble for test data unit sales are 
 
 
 
