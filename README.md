@@ -13,17 +13,6 @@ The top 5 features used for predicting unit sales are average sales calculated t
 
 
 
-## References
-
-Data Source[https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data]
-
-
-https://www.kaggle.com/aharless/dissecting-ceshine-lee-s-lgbm-kernel 
-
-
-https://www.kaggle.com/sohinibhattacharya86/predict-grocery-sales-rf-xgb  
-
-
 ## Analysis
 :arrow_right: Analyzed the six data files and plotted insights from them to understand the relations between target variable and other variables
 
@@ -39,6 +28,20 @@ Random Forest Regressor | Randomized Search CV
 MAE  :   0.29           |  MAE  :   0.28 
 MSE  :   0.40           |  MSE  :   0.35 
 RMSE :   0.63           |  RMSE :   0.59
+
+
+
+
+
+## References
+
+Data Source[https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data]
+
+
+https://www.kaggle.com/aharless/dissecting-ceshine-lee-s-lgbm-kernel 
+
+
+https://www.kaggle.com/sohinibhattacharya86/predict-grocery-sales-rf-xgb  
 
 
 
