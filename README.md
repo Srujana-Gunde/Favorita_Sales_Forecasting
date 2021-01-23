@@ -11,9 +11,11 @@ This project contains six files ( Train, Test, Item, Stores, Oil, Transactions a
 
 The above plot tells about features responsible for predicting unit sales for a particular item in different stores across Ecuador
 
-Average sales calculated from today to past two weeks 
 
-Promotions calculated from today to future days. The days mainly responsilble for test data unit sales are Promotion for 0th day,7th day,14th day and 9th day.
+:fast_forward: Average sales calculated from today to past two weeks 
+
+
+:fast_forward: Promotions calculated from today to future days. The days mainly responsilble for test data unit sales are Promotion for 0th day,7th day,14th day and 9th day.
 
 
 
