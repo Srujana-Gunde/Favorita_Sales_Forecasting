@@ -15,7 +15,7 @@ The above plot tells about features responsible for predicting unit sales for a 
 :fast_forward: Average sales calculated from today to past two weeks 
 
 
-:fast_forward: Promotions calculated from today to future days. The days mainly responsilble for test data unit sales are Promotion for 0th day,7th day,14th day and 9th day.
+:fast_forward: Promotions calculated from today to future days. The days mainly responsilble for test data unit sales are Promotions for 0th day,7th day,14th day and 9th day.
 
 
 
@@ -34,6 +34,9 @@ Random Forest Regressor | Randomized Search CV
 MAE  :   0.29           |  MAE  :   0.28 
 MSE  :   0.40           |  MSE  :   0.35 
 RMSE :   0.63           |  RMSE :   0.59
+
+
+:pushpin: We can observe that MSE decreased .5 with Randomized Search CV by Hyperparameter tuning
 
 
 
